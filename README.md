@@ -1,5 +1,5 @@
 
-# Project Name
+# Microverse Day2 Project
 
 > Description the project.
 
