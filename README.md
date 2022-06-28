@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
@@ -10,10 +9,6 @@
 - Major languages
 - Frameworks
 - Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
